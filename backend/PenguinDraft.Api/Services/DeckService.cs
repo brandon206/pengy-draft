@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace PenguinDraft.Api.Interfaces
+namespace PenguinDraft.Api.Services
 {
-  public interface IDeckRepository
-  {
-
-  }
+    public class DeckService
+    {
+        
+    }
 }
